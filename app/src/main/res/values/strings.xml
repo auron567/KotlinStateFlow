@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinStateFlow</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+</resources>
